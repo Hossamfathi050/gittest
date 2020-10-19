@@ -3,3 +3,6 @@ def weclome():
 
 def printmyname():
     print('HOSSAM')
+
+def printmyfullname():
+    print('HOSSAM Fathi Soliman')
